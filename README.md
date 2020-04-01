@@ -2,7 +2,7 @@
 
 This is a place holder for a Python Library to parse Libelium WASP Frame Formats.
 
-I just need to finish it off, clean up the comments and test and get it committed.
+I just need to finish it off, clean up the comments and tests and get it committed.
 
 At this stage, this repository will host a community edition of the parser and supporting tools.
 
